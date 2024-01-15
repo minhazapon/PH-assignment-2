@@ -1,0 +1,354 @@
+
+.ht{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+
+}
+
+.hero{
+       font-size: 35px;
+
+
+
+}
+
+.t{
+    color: orangered;
+
+
+}
+
+
+nav{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding-left: 80px;
+     padding-right: 80px;
+
+
+}
+
+nav > ul{
+
+    display: flex;
+    align-items: center;
+
+
+}
+
+
+nav li{
+
+    list-style: none;
+    margin: 40px;
+    font-size: 20px;
+
+}
+
+nav li a{
+
+     text-decoration: none;
+
+
+}
+
+
+.ex{
+     margin-top: 30px;
+     text-align: center;
+
+
+}
+
+.para{
+      color: rgb(70, 70, 70);
+
+
+}
+
+.but{
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     height: 50px;
+     width: 170px;
+     background-color: orangered;
+     border-radius: 8px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 0px;
+    padding-bottom: 5px;
+
+}
+
+.ey{
+     font-size: 65px;
+     padding-top: 120px;
+     color: rgb(0, 0, 0);
+
+
+}
+
+.bf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    background-color: rgba(255, 232, 232, 0.514);
+    padding: 16px;
+    border-radius: 50px;
+    background-size: 20px;
+   
+
+}
+
+.text{
+      height: 50px;
+      width: 170px;
+      border-radius: 8px;
+      border: 0px;
+      align-items: center;
+      justify-content: center;
+
+
+}
+
+.ex{
+
+    background-image: url(Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+
+
+   
+
+
+}
+
+
+.para1{
+      color: rgb(0, 0, 0);
+      font-size: 20px;
+      font-weight: bold;
+
+
+}
+
+
+.main{
+        margin-top: 80px;
+
+
+
+}
+
+
+.pop{
+       font-size: 40px;
+
+
+
+
+}
+
+.jn{
+     font-size: 20px;
+     color: rgb(104, 104, 104);
+
+
+}
+
+.li{
+     font-size: 20px;
+     color: rgb(104, 104, 104);
+
+
+}
+
+.but2{
+       font-size: 20px;
+       background-color: orangered;
+       height: 50px;
+       width: 170px;
+       border-radius: 8px;
+       color: aliceblue;
+       border: 0px;
+
+}
+
+.opt{
+
+      display: flex;
+      gap: 50px;
+      justify-content: center;
+      align-items: center;
+
+
+}
+
+
+.choose{
+         margin-top: 100px;
+
+
+}
+
+.c{
+    text-align: center;
+
+
+}
+
+.cy{
+    font-size: 45px;
+
+
+}
+
+
+
+.pic{
+       display: flex;
+       gap: 30px;
+       justify-content: center;
+       align-items: center;
+
+
+}
+
+
+
+.pic1{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.pic1{
+        margin-top: 10px;
+  
+
+}
+
+
+.pic3{
+    margin-top: 10px;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+
+ 
+
+
+}
+
+
+.why{
+
+        margin-top: 80px;
+
+
+}
+
+
+.wcu{
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+
+
+}
+
+
+.w{
+     font-size: 50px;
+
+
+}
+
+.ho{
+    font-size: 30px;
+
+
+}
+
+.hw{
+     display: flex;
+     gap: 100px;
+     justify-content: center;
+     align-items: center;
+
+
+}
+
+.map{
+    margin-left: 80px;
+
+}
+
+.hotel{
+     background-color: rgba(253, 242, 241, 0.829);
+     border: 1px solid rgb(255, 211, 203);
+     padding: 30px;
+     border-radius: 20px;
+
+
+}
+
+
+.map{
+
+    background-color: rgba(221, 253, 252, 0.829);
+    border: 1px solid rgb(138, 255, 255);
+    padding: 30px;
+    border-radius: 20px;
+
+    
+}
+
+.ip{
+      margin-right: 180px;
+
+
+}
+
+.price{
+   margin-top: 50px;
+   text-align: center;
+   background-color: rgba(228, 255, 254, 0.829);
+    border: 1px solid rgb(138, 255, 255);
+    padding: 30px;
+    border-radius: 20px;
+
+   justify-content: center;
+   align-items: center;
+
+   margin-left: 300px;
+   margin-right: 300px;
+   padding-right: 100px;
+   
+
+}
+
+.bp1{
+
+   font-size: 30px;
+
+
+}
+
+.bp{
+     color: rgb(66, 66, 66);
+     margin-left: 100px;
+
+
+}
